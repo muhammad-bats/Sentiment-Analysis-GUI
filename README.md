@@ -75,5 +75,6 @@ The `show_error` function is used to display error messages in case no folder or
 - Ensure that the PDFs contain text, as the script relies on text extraction.
 - The code creates a new xlsx file if it doesnot exist
 - The script creates a new xlsx sheet if one does not exist in the xlsx file.
+- A sample result xlsx file is attched in the repository
 
 ---
