@@ -7,6 +7,43 @@ GUI application for Sentiment Analysis
 
 This Python GUI application enables users to perform sentiment analysis on PDF files within a selected folder using multiple sentiment analysis models. The analyzed results are then saved to an Excel file.
 
+## Pre-Requisites 
+For this python script you need these python liberaries
+
+Python version: 3.10.14
+
+tk:                       8.6.14
+
+pypdf2:                   3.0.1
+
+numpy:                    2.0.1 
+
+openpyxl:                 3.1.5
+
+nltk:                     3.8.1
+
+vadersentiment:           3.3.2
+
+textblob:                 0.15.3
+
+flair:                    0.14.0
+
+spacy:                    3.7.5
+
+spacy-legacy:            3.0.12  
+
+spacy-loggers:           1.0.5
+
+torch:                   2.4.0
+
+This script uses a conda environment to run the tracker. 
+
+conda version: 24.7.1
+
+To create a conda environment run the following command in anaconda prompt
+
+`conda create --name pdf`
+
 ## Code Explanation
 
 ### 1. GUI Layout
