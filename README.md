@@ -71,7 +71,7 @@ The `show_error` function is used to display error messages in case no folder or
 
 - The program supports four sentiment analysis models: VADER, TextBlob, Flair, and SpaCy with TextBlob integration.
 - The code is designed to automatically leave spaces in column to allow use of different models on the same folder and store the data in the same file for comparison between sentiment models
-- The Excel file will be automatically created if it does not exist.
+- To use different models on each folder and store the results in the same xlsx file for comparison, just select each model turn by turn and analyze individually
 - Ensure that the PDFs contain text, as the script relies on text extraction.
 - The code creates a new xlsx file if it doesnot exist
 - The script creates a new xlsx sheet if one does not exist in the xlsx file.
