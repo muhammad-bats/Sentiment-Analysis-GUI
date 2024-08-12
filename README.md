@@ -104,6 +104,13 @@ The `show_error` function is used to display error messages in case no folder or
 - Click "Analyze Sentiments!!" to start the analysis.
 ```
 
+
+## FLowchart
+
+
+![folderflow](https://github.com/user-attachments/assets/6bcdf207-cd5a-4ddf-a078-2401a1acc999)
+
+
 ## Notes
 
 - The program supports four sentiment analysis models: VADER, TextBlob, Flair, and SpaCy with TextBlob integration.
